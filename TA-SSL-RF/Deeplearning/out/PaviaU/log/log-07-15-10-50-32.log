@@ -1,0 +1,23 @@
+[07/15 10:50:32 train]: Complete_feature=False
+ addfeature=False
+ addspectral=True
+ arch='t'
+ batch_size=1024
+ dataset='PaviaU'
+ device=device(type='cuda'
+ index=0)
+ dim=768
+ image_size=224
+ in_channel=3
+ model='swin'
+ out_path='out/PaviaU'
+ piece_size=10
+ repeat=10
+ sample_number=5
+ seed=20
+ stip=32
+ stride=2
+ user_feature=False
+ views=[0
+ 3]
+ views_group=2)
